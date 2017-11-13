@@ -1,0 +1,1 @@
+This is how to anstage file from staging area.Here is a second line in this file
