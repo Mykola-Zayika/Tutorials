@@ -1,2 +1,5 @@
-This is how to anstage file from staging area.Here is a second line in this file
+This is how to anstage file from staging area.
+Here is a second line in this file
 This is a third line in my file
+
+This a bad website for now
